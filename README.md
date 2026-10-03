@@ -203,7 +203,7 @@ A responsive personal portfolio website created to showcase my **projects, techn
 
 # 🌱 Currently Learning
 
-I am continuously improving my technical skills and currently exploring:
+I am continuously improving my technical skills and currently exploring with Niit Institute:
 
 * 📊 Data Analytics
 * 🗃️ SQL
