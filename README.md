@@ -1,35 +1,3 @@
-# 👋 Hi, I'm Vaibhav Shivdarshan Garad
-
-### 💻 Full Stack Developer | BCS Graduate
-
-<p align="left">
-  <a href="mailto:vaibhavgarad556@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/vaibhav-1278">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I am a **Full Stack Developer and BCS graduate** from Maharashtra with hands-on experience in building and deploying responsive, database-driven web applications.
-
-I work across the full development lifecycle — from **database design and REST API development to responsive frontend interfaces and deployment**.
-
-I have built **3+ full-stack applications** involving authentication, role-based workflows, CRUD operations, REST APIs, dashboards, and database-driven systems.
-
-* 🎓 **B.C.S. Graduate — 2026**
-* 💻 **Full Stack Developer**
-* 🏢 **Former Full Stack Developer Intern at Codveda Technologies**
-* 🌐 Experienced in building and deploying full-stack applications
-* 📍 **Ahilyanagar, Maharashtra, India**
-* 🚀 Interested in building practical, scalable, and user-focused applications
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
@@ -49,9 +17,11 @@ I have built **3+ full-stack applications** involving authentication, role-based
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="45" alt="Node.js"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="55" height="45" alt="Express.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="45" alt="PHP"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain-wordmark.svg" width="55" height="45" alt="CodeIgniter"/>
 </p>
 
-**Node.js • Express.js • REST API Design • JWT Authentication**
+**Node.js • Express.js • PHP • CodeIgniter • REST API Design • JWT Authentication**
 
 ### 🗄️ Database
 
@@ -66,9 +36,10 @@ I have built **3+ full-stack applications** involving authentication, role-based
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
 </p>
 
-**Git • GitHub • Postman • Render • Vercel**
+**Git • GitHub • Postman • Render • Vercel • QR Code Generator**
 
 ### 🧠 Core Concepts
 
@@ -78,28 +49,9 @@ I have built **3+ full-stack applications** involving authentication, role-based
 * JWT Authentication
 * Responsive Design
 * Database Design & Optimization
+* Table-wise Order Management
+* Automated Billing
 * Agile Collaboration
-
----
-
-## 💼 Professional Experience
-
-### Full Stack Developer Intern
-
-**Codveda Technologies — Chandrapur, India (Remote)**
-
-📅 **December 2025 – January 2026**
-
-During my internship, I worked on production-style full-stack development and delivered features under real project deadlines.
-
-**Key Contributions:**
-
-* Built and maintained responsive full-stack web applications using **Node.js, Express.js, React.js, and MySQL**.
-* Developed features from **database schema through to deployed UI**.
-* Designed and implemented **CRUD REST API endpoints** consumed by React frontends.
-* Worked on create, read, update, and delete workflows for core application data.
-* Collaborated in a remote development team using **Git and GitHub**.
-* Used version control, feature branching, and code collaboration practices.
 
 ---
 
@@ -123,12 +75,6 @@ A role-based job portal designed to provide separate workflows for **employers a
 * 📈 Employer dashboard
 * 🔄 Hiring-stage management
 
-### Highlights
-
-* Built an automated application-tracking system that moves candidates through different hiring stages.
-* Integrated **Nodemailer** for automated shortlist and rejection notifications.
-* Developed a responsive employer dashboard for managing job postings and applications.
-
 ---
 
 ## 🏥 Hospital Management System
@@ -151,12 +97,6 @@ A multi-hospital platform designed to manage hospitals, doctors, patients, and a
 * 👤 Patient dashboard
 * 🔗 REST APIs
 
-### Highlights
-
-* Implemented appointment booking with **time-slot conflict prevention**.
-* Developed patient-facing search functionality for hospitals and doctors.
-* Built REST APIs powering dashboards for **hospital administrators, doctors, and patients**.
-
 ---
 
 ## 🌐 Portfolio Website
@@ -176,60 +116,35 @@ A responsive personal portfolio website created to showcase my **projects, techn
 
 ---
 
-# 🎓 Education
+## 🍽️ QR-Based Digital Menu & Restaurant Management System
 
-### Bachelor of Computer Science — B.C.S.
+**Tech Stack:** `PHP` `CodeIgniter` `MySQL` `Bootstrap` `QR Code Generator`
 
-**New Arts, Commerce & Science College, Ahilyanagar**
-**Savitribai Phule Pune University (SPPU)**
+A **QR-based digital menu and restaurant management system** designed to simplify the food ordering process for customers and improve restaurant operations.
 
-📊 **65.51% | 2026**
+Customers can scan the **QR code placed on their table** using their smartphone to access the digital menu, browse food items, view prices and details, select items, and place orders directly from their table.
 
-### Higher Secondary Certificate — HSC
+Orders are automatically displayed on the **Kitchen Dashboard**, allowing kitchen staff to view and manage orders **table-wise**.
 
-**Shri Shivaji High School, Bodhegaon**
-**Maharashtra State Board**
+The system also includes an **Admin Dashboard** for managing menu items, categories, tables, orders, and restaurant operations. It supports **automatic bill generation for individual tables** based on ordered items and quantities.
 
-📊 **61.50% | 2023**
+### ✨ Key Features
 
----
+* 📱 QR code-based digital menu
+* 📷 Customers can scan table QR codes
+* 🍔 Digital food menu with item details and prices
+* 🛒 Table-wise food ordering
+* 👨‍🍳 Kitchen dashboard
+* 📋 Table-wise order tracking
+* ⚙️ Admin dashboard
+* 🍽️ Menu and food item management
+* 📦 Order management
+* 🧾 Automatic bill generation
+* 💳 Table-wise billing
+* 📱 Responsive and user-friendly interface
 
-# 📜 Certifications
+### 🎯 Project Objective
 
-* 🎓 **Full Stack Web Development — A2Z IT Hub**
-* ⚛️ **React.js — Coursera**
+The main objective of this project is to **digitize and simplify restaurant operations** by replacing traditional paper menus and manual order-taking with a QR-based digital ordering system.
 
----
-
-# 🌱 Currently Learning
-
-I am continuously improving my technical skills and currently exploring with Niit Institute:
-
-* 📊 Data Analytics
-* 🗃️ SQL
-* 📈 Excel
-* 📊 Power BI
-* 🐍 Python
-* 📉 Data Visualization
-
-I am interested in combining my **software development background with data analytics** to build practical and data-driven solutions.
-
----
-
-# 🤝 Collaboration
-
-I'm interested in collaborating on:
-
-* Full Stack Web Applications
-* Backend Development
-* REST API Projects
-* Database-Driven Applications
-* Open-Source Projects
-* Real-World Software Solutions
-* Data Analytics Projects
-
----
-
-# 💬 Ask Me About
-
-**React.js • Node.js • Express.js • MySQL • REST APIs • JWT Authentication • CR**
+The system helps improve the customer ordering experience, reduce manual work, organize kitchen orders efficiently, and simplify restaurant billing and management.
